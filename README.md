@@ -22,4 +22,5 @@ company_location: The geographical location of the company.
 
 company_size: The scale of the company, often based on employee count.
 # output
-https://github.com/Anshika-1905/datadeveloper-salaryanalysis/issues/2#issue-2368952648
+![Analysis of data devloper salaries](
+https://github.com/Anshika-1905/datadeveloper-salaryanalysis/issues/2#issue-2368952648)
